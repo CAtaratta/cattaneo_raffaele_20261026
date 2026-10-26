@@ -1,0 +1,19 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+
+}
+
+.ul{
+    display: flex;
+    list-style: none;
+
+}
+
+.container{
+    background-color:cadetblue;
+    padding: 25px;
+    margin: 40px;
+    border-radius: 20px;
+}
